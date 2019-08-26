@@ -21,7 +21,7 @@
      font-family: 'Dast Nevis';
      src: local('☺'),
      local('Dast Nevis'),
-     url('http://awebfont.ir/services/fonts/618bba0f218e4740e1ce2e37ebc80ef3c29647152901931.woff') format('woff');
+     url('../fonts/dastnevis.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
